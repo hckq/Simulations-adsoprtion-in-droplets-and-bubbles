@@ -1,0 +1,12 @@
+#include "gromos54a7_atb.ff/forcefield.itp"
+#include "../repelOH.itp"
+#include "../propanol_aa.itp"
+#include "gromos54a7_atb.ff/spce.itp"
+
+
+[ system ]
+test in water
+
+[ molecules ]
+6ZJN    16
+SOL              8859

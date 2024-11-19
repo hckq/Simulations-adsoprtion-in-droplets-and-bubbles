@@ -1,0 +1,2 @@
+The script 'data_analaysis.sh' generates, from the trajectories files .xtc, a new version, with the string '_fix' in the name, in which the system is fixed at the center of the box. 
+This is what is required in the script 'sphere_analysis.py' to extract the relevant quantities (radial dristibution of water and surfactants, bulk concentration, excess surface density, and average molecular orientation at the interface)
